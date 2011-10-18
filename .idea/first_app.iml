@@ -56,6 +56,7 @@
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/test" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/.bundle" />
       <excludeFolder url="file://$MODULE_DIR$/tmp" />
     </content>
     <orderEntry type="inheritedJdk" />
@@ -102,6 +103,7 @@
     <orderEntry type="library" scope="PROVIDED" name="[gem] execjs (v1.2.9, C:/wamp/bin/Ruby192/lib/ruby/gems/1.9.1/gems/execjs-1.2.9)" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="[gem] coffee-script-source (v1.1.2, C:/wamp/bin/Ruby192/lib/ruby/gems/1.9.1/gems/coffee-script-source-1.1.2)" level="application" />
     <orderEntry type="library" scope="PROVIDED" name="[gem] coffee-script (v2.2.0, C:/wamp/bin/Ruby192/lib/ruby/gems/1.9.1/gems/coffee-script-2.2.0)" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="[gem] sqlite3-ruby (v1.3.3, C:/wamp/bin/Ruby192/lib/ruby/gems/1.9.1/gems/sqlite3-ruby-1.3.3)" level="application" />
   </component>
 </module>
 
